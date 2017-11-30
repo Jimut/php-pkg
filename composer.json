@@ -1,7 +1,7 @@
 {
     "name": "jimutdhali/php-pkg",
     "description": "Counts alligator teeths",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "type": "library",
     "authors": [
         {
